@@ -1,8 +1,10 @@
-# Selenium-Python-First-Project
+<details>
+<summary># Selenium-Python-First-Project</summary>
 
 This Repository Contains a UI testing Project, using Python, Selenium Webdriver.
 
 A simple search in Google to check the results are displayed is used as example.
+</details>
 
 Requirements
 Python 3.12.3
