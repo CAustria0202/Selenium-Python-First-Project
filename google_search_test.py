@@ -19,7 +19,6 @@ driver.get("https://google.com")
 googleSearchBox = driver.find_element(By.ID, "APjFqb")
 googleSearchBox.send_keys("Automation")
 
-#OPTION 2;
 # Wait for the search button to be clickable and click it
 WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.NAME, "btnK"))).click()
 
